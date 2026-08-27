@@ -1,0 +1,30 @@
+LOAN AGREEMENT
+
+This Loan Agreement ("Agreement") is entered into as of January 15, 2024, 
+between ABC Bank S.A. ("Lender") and John Smith ("Borrower").
+
+1. LOAN AMOUNT
+The Lender agrees to provide a loan of $50,000 USD to the Borrower.
+
+2. INTEREST RATE
+The loan shall accrue interest at a rate of 12.5% per annum.
+
+3. REPAYMENT TERMS
+The Borrower shall repay the loan in 36 monthly installments of $1,670 USD,
+beginning February 15, 2024 and ending January 15, 2027.
+
+4. LATE PAYMENT PENALTY
+Any payment received more than 5 days after the due date shall incur a 
+penalty of 2% of the outstanding balance per month.
+
+5. COLLATERAL
+The Borrower agrees to provide their property located at 123 Main Street 
+as collateral for this loan.
+
+6. DEFAULT CONDITIONS
+The loan shall be considered in default if the Borrower misses 3 consecutive
+payments or fails to maintain adequate insurance on the collateral property.
+
+7. EARLY TERMINATION
+The Borrower may repay the loan early without penalty after 12 months.
+Early repayment before 12 months incurs a fee of 3% of the remaining balance.

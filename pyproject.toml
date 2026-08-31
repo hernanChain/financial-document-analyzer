@@ -11,3 +11,12 @@ dependencies = [
     "python-dotenv>=1.2.3",
     "typer>=0.27.1",
 ]
+[project.scripts]
+fda = "src.cli:app"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+[tool.pytest.ini_options]
+pythonpath = ["."]
